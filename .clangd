@@ -1,0 +1,5 @@
+# .clangd
+CompileFlags:
+    # Don't think this is actually necessary if `compile_commands.json' is in source directory
+    CompilationDatabase: /home/jamie/work/codes/cudarise-fv/src
+    #CompilationDatabase: /home/jamie/work/codes/delme/cudarise-fv/src
